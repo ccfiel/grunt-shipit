@@ -26,11 +26,11 @@
     "stream-line-wrapper": "^0.1.1"
   },
   "peerDependencies": {
-    "grunt": "^0.4.4"
+    "grunt": "^0.5.0"
   },
   "devDependencies": {
     "chai": "^1.9.1",
-    "grunt": "^0.4.4",
+    "grunt": "^0.5.0",
     "mocha": "^1.18.2",
     "mock-utf8-stream": "^0.1.1",
     "rewire": "^2.0.0",
